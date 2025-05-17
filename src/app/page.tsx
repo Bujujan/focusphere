@@ -63,7 +63,7 @@ export default function FocusTimer() {
     <div className="min-h-screen bg-[#0b0b0b] text-white flex flex-col p-6">
       <div className="flex justify-between items-center ">
         <h1 className="text-2xl font-bold">Focusphere</h1>
-        <span className="text-xl">"Clarity creates focus. Focus fuels progress."</span>
+        <span className="text-xl">&quot;Clarity creates focus. Focus fuels progress.&quot;</span>
       </div>
 
       <div className="flex flex-col h-full justify-center items-center flex-grow">
